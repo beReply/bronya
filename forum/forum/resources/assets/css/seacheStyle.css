@@ -1,0 +1,16 @@
+.search {background: white;}
+.search form {
+    height: 42px;
+}
+.search input {
+    width: 150px;
+    border-radius: 42px;
+    border: 2px solid #324B4E;
+    background: whitesmoke;
+    transition: .3s linear;
+    float: right;
+    font-size: 15px;
+}
+.search input:focus {
+    width: 300px;
+}
